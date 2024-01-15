@@ -25,5 +25,3 @@ public class Review02 {
 }
 
 
-//とりあえず完成だが、物足りない感じはする。
-//この章で習った「while」「switch/break/default」「for」「拡張for」を一切使用していないため。
